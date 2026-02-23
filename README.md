@@ -14,8 +14,6 @@ Enhance your DnD5e campaigns with a module that allows Game Masters customize yo
 -   Item Properties
 -   Loot Types
 -   Skills
--   Spell Components
--   Spell Tags
 -   Spell Schools
 
 ## Installation
